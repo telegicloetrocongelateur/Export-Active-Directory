@@ -1,5 +1,5 @@
 ([ADSISearcher]@{
-    Filter       = "objectCategory=User"
+    Filter       = "objectCategory=User";
     SizeLimit    = 2147483647;
     Asynchronous = $true;
     Tombstone    = $true;
