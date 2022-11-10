@@ -70,7 +70,7 @@ Set-Content "ad.json" $Json; # Save the json results in a file
 ```
 
 
-> See [Users Exportation](https://testlink.com)
+> See [Users Exportation](https://github.com/Telegicloetrocongelateur/Export-Active-Directory/blob/8c786001af6d20ccaef8348a9c3d4a81a53ba17e/powershell/Export-Active-Directory-Users.ps1)
 
 
 ### Extern Exportation
